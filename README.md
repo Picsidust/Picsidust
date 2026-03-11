@@ -14,49 +14,48 @@ JSS Academy of Technical Education, Noida
 
 ## Core ECE Subjects
 
-- **Digital Signal Processing (DSP)**
-- **Signals and Systems**
-- **Communication Engineering**
-- **Analog Electronics**
-- **CMOS / VLSI Fundamentals**
-- **Computer Networks**
-- **Digital Electronics**
-- **Computer Architecture**
-- **Data Structures & Algorithms**
+- Digital Signal Processing (DSP)
+- Signals and Systems
+- Communication Engineering
+- Analog Electronics
+- CMOS / VLSI Fundamentals
+- Computer Networks
+- Digital Electronics
+- Computer Architecture
+- Data Structures & Algorithms
 
 ---
 
 ## Technical Skills
 
 ### Programming
-- **C**
-- **C++**
-- **Python**
-- **Bash**
+- C
+- C++
+- Python
+- Bash
 
 ### Systems & Architecture
-- **Computer Architecture**
-- **Pipeline Design**
-- **Memory Systems & Cache**
-- **SIMD / Vector Processing**
+- Computer Architecture
+- Pipeline Design
+- Memory Systems & Cache
+- SIMD / Vector Processing
 
 ### Kernel & Embedded
-- **Bare-Metal Programming**
-- **Linux Kernel Concepts**
-- **Device Drivers**
-- **RTOS Fundamentals**
-- **Bootloaders**
+- Bare-Metal Programming
+- Linux Kernel Concepts
+- Device Drivers
+- RTOS Fundamentals
+- Bootloaders
 
 ### Tools & Development Environment
-- **Git / GitHub**
-- **Linux (Ubuntu / WSL)**
-- **QEMU**
-- **Gem5**
-- **GCC / LLVM**
-- **GDB**
-- **Make / CMake**
-- **Docker**
-- **GitHub Actions**
+- Git / GitHub
+- Linux (Ubuntu / WSL)
+- QEMU
+- Gem5
+- GCC / LLVM
+- GDB
+- Make / CMake
+- Docker
 
 ---
 
