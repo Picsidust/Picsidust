@@ -3,6 +3,7 @@
 🎓 6th Semester Electronics & Communication Engineering Student
 
 My interests revolve around computer architecture, signal processing, and low-level systems programming. I like digging into topics like processor pipelines, memory systems, and operating systems to understand how software interacts directly with hardware.
+
 ---
 
 ## Education
@@ -62,16 +63,16 @@ JSS Academy of Technical Education, Noida
 ## 🚀 Projects
 
 ### Mini Kernel for RISC-V
-- Developed a **monolithic kernel for the QEMU virt machine**
-- Implemented a **Round-Robin scheduler**
-- Built **trap handlers and system call interface**
-- Implemented **UART and PLIC device drivers using MMIO**
+- Developed a monolithic kernel for the QEMU virt machine
+- Implemented a Round-Robin scheduler
+- Built trap handlers and system call interface
+- Implemented UART and PLIC device drivers using MMIO
 
 ### High Performance Custom Memory Allocator
-- Designed a **thread-safe malloc/free implementation**
-- Implemented **free-list allocation with block coalescing**
-- Optimized memory layout for **cache locality**
-- Benchmarked performance against the **glibc allocator**
+- Designed a thread-safe malloc/free implementation
+- Implemented free-list allocation with block coalescing
+- Optimized memory layout for cache locality
+- Benchmarked performance against the glibc allocator
 
 ---
 
@@ -87,5 +88,5 @@ JSS Academy of Technical Education, Noida
 
 ## 📫 Connect
 
-GitHub: https://github.com/YOUR_USERNAME  
+GitHub: https://github.com/Picsidust
 LinkedIn: www.linkedin.com/in/akanshadharmrajyadav
