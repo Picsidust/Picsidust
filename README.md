@@ -1,7 +1,8 @@
-Hi 👋 I'm Akansha Dharmraj Yadav
-## About me
-    6th Semester Electronics & Communication Engineering Student     
-    I'm an ECE student who enjoys exploring how computers actually work. My interests revolve around computer architecture, signal processing, and low-level systems programming. I like digging into     topics like processor pipelines, memory systems, and operating systems to understand how software interacts directly with hardware.
+# Hi 👋 I'm Akansha Dharmraj Yadav
+
+🎓 6th Semester Electronics & Communication Engineering Student
+
+My interests revolve around computer architecture, signal processing, and low-level systems programming. I like digging into topics like processor pipelines, memory systems, and operating systems to understand how software interacts directly with hardware.
 ---
 
 ## Education
