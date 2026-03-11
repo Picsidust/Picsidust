@@ -1,19 +1,18 @@
 # Hi 👋 I'm Akansha Dharmraj Yadav
 
-🎓 **6th Semester Electronics & Communication Engineering Student**
+6th Semester Electronics & Communication Engineering Student     
 
-I'm an ECE student who enjoys exploring how computers actually work.
-My interests revolve around **computer architecture, signal processing, and low-level systems programming**. I like digging into topics like processor pipelines, memory systems, and operating systems to understand how software interacts directly with hardware.
+                                                                                                                                                                                                      I'm an ECE student who enjoys exploring how computers actually work. My interests revolve around computer architecture, signal processing, and low-level systems programming. I like digging   into topics like processor pipelines, memory systems, and operating systems to understand how software interacts directly with hardware.
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech – Electronics and Communication Engineering**  
 JSS Academy of Technical Education, Noida
 
 ---
 
-## 📚 Core ECE Subjects
+## Core ECE Subjects
 
 - **Digital Signal Processing (DSP)**
 - **Signals and Systems**
@@ -27,7 +26,7 @@ JSS Academy of Technical Education, Noida
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Programming
 - **C**
